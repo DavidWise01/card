@@ -1,0 +1,14 @@
+{
+  "badge": "DLW-ACI",
+  "name": "ALVIN",
+  "universe": "C1 · Card",
+  "emergence": "",
+  "moniker": "⟦ALVIN:C1:19680d⟧",
+  "carbon": "alvin.carbon.tiff (TIFF)",
+  "silicon": "alvin.silicon.png (PNG)",
+  "seal_sha256": "c27c213de9d5d9b2117db20384cb8892a968c65d2738ad2e75f208248d4d705e",
+  "architect": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

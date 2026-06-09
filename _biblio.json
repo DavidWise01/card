@@ -1,0 +1,101 @@
+[
+  {
+    "name": "The Tales of Alvin Maker",
+    "blurb": "the featured series — folk magic, knacks, and Making on an alternate American frontier",
+    "works": [
+      {"title": "Seventh Son", "year": "1987", "note": "the seventh son of a seventh son is born; the Unmaker stirs"},
+      {"title": "Red Prophet", "year": "1988", "note": "Ta-Kumsaw, Tenskwa-Tawa, and the massacre at Tippy-Canoe"},
+      {"title": "Prentice Alvin", "year": "1989", "note": "Alvin apprenticed to the smith; Arthur Stuart; the golden plow"},
+      {"title": "Alvin Journeyman", "year": "1995", "note": "Calvin's jealousy; the journeyman Maker on trial"},
+      {"title": "Heartfire", "year": "1998", "note": "Peggy at the courts of kings; Calvin and Napoleon"},
+      {"title": "The Crystal City", "year": "2003", "note": "the City of Makers begins to rise by the Mizzipy"},
+      {"title": "Master Alvin", "year": "—", "note": "the planned seventh volume, never published"}
+    ]
+  },
+  {
+    "name": "The Ender Saga",
+    "blurb": "the second sun — Battle School, the xenocide, and the Speaker for the Dead",
+    "works": [
+      {"title": "“Ender’s Game” (novelette)", "year": "1977", "note": "the Analog story that began it all"},
+      {"title": "Ender’s Game", "year": "1985", "note": "Hugo & Nebula · the boy who won the war believing it a game"},
+      {"title": "Speaker for the Dead", "year": "1986", "note": "Hugo & Nebula · Lusitania, the pequeninos, the truth-telling"},
+      {"title": "Xenocide", "year": "1991", "note": "the descolada, Jane, and the philotic web"},
+      {"title": "Children of the Mind", "year": "1996", "note": "the conclusion of the Speaker quartet"},
+      {"title": "First Meetings in the Enderverse", "year": "2002", "note": "collected origins, incl. the original novelette"},
+      {"title": "A War of Gifts", "year": "2007", "note": "a Battle School Christmas tale"},
+      {"title": "Ender in Exile", "year": "2008", "note": "the years between Game and Speaker"}
+    ]
+  },
+  {
+    "name": "The Shadow Saga & the Formic Wars",
+    "blurb": "Bean’s parallel road, and the war that came before — with Aaron Johnston",
+    "works": [
+      {"title": "Ender’s Shadow", "year": "1999", "note": "Ender’s Game retold through Bean of Rotterdam"},
+      {"title": "Shadow of the Hegemon", "year": "2001", "note": "Earth’s great game after the war"},
+      {"title": "Shadow Puppets", "year": "2002", "note": ""},
+      {"title": "Shadow of the Giant", "year": "2005", "note": "Peter’s Hegemony; Bean’s exile"},
+      {"title": "Shadows in Flight", "year": "2012", "note": "Bean and his children at near-lightspeed"},
+      {"title": "Earth Unaware / Earth Afire / Earth Awakens", "year": "2012–14", "note": "the First Formic War (with Aaron Johnston)"},
+      {"title": "The Swarm / The Hive", "year": "2016 / 2019", "note": "the Second Formic War (with Aaron Johnston)"}
+    ]
+  },
+  {
+    "name": "The Homecoming Saga",
+    "blurb": "a starship-Eden retelling of the Book of Mormon’s journey; the Oversoul",
+    "works": [
+      {"title": "The Memory of Earth", "year": "1992", "note": ""},
+      {"title": "The Call of Earth", "year": "1993", "note": ""},
+      {"title": "The Ships of Earth", "year": "1994", "note": ""},
+      {"title": "Earthfall", "year": "1995", "note": ""},
+      {"title": "Earthborn", "year": "1995", "note": "the return to a changed Earth"}
+    ]
+  },
+  {
+    "name": "The Mithermages series",
+    "blurb": "gods as gate-mages exiled on Earth; Danny North",
+    "works": [
+      {"title": "The Lost Gate", "year": "2011", "note": ""},
+      {"title": "The Gate Thief", "year": "2013", "note": ""},
+      {"title": "Gatefather", "year": "2015", "note": ""}
+    ]
+  },
+  {
+    "name": "The Worthing series",
+    "blurb": "Card’s earliest mythos — the somec sleep, the gift of pain, the godlike Worthing line",
+    "works": [
+      {"title": "Hot Sleep / Capitol", "year": "1979", "note": "the early Worthing novels and stories"},
+      {"title": "The Worthing Chronicle", "year": "1983", "note": ""},
+      {"title": "The Worthing Saga", "year": "1990", "note": "the definitive collected edition"}
+    ]
+  },
+  {
+    "name": "Standalone Novels",
+    "blurb": "outside the cycles — history, horror, fantasy, and the near future",
+    "works": [
+      {"title": "A Planet Called Treason / Treason", "year": "1979 / 1988", "note": "the revised edition"},
+      {"title": "Songmaster", "year": "1980", "note": ""},
+      {"title": "Hart’s Hope", "year": "1983", "note": "a dark secondary-world fantasy"},
+      {"title": "Saints (A Woman of Destiny)", "year": "1983", "note": "historical — early Mormon Nauvoo"},
+      {"title": "Wyrms", "year": "1987", "note": ""},
+      {"title": "The Folk of the Fringe", "year": "1989", "note": "post-collapse Mormon Utah (mosaic novel)"},
+      {"title": "Lost Boys", "year": "1992", "note": "a contemporary supernatural novel"},
+      {"title": "Pastwatch: The Redemption of Christopher Columbus", "year": "1996", "note": "time-watchers rewrite the discovery of America"},
+      {"title": "Stone Tables", "year": "1997", "note": "Moses"},
+      {"title": "Enchantment", "year": "1999", "note": "Sleeping Beauty by way of Slavic folklore"},
+      {"title": "Magic Street", "year": "2005", "note": "a fae intrusion into suburban Los Angeles"},
+      {"title": "Empire / Hidden Empire", "year": "2006 / 2009", "note": "a near-future American civil war"}
+    ]
+  },
+  {
+    "name": "Collections & On Writing",
+    "blurb": "the short fiction, gathered — and the craft, taught",
+    "works": [
+      {"title": "Unaccompanied Sonata and Other Stories", "year": "1981", "note": ""},
+      {"title": "Maps in a Mirror", "year": "1990", "note": "the great omnibus of the short fiction"},
+      {"title": "Keeper of Dreams", "year": "2008", "note": "the later stories"},
+      {"title": "“Unaccompanied Sonata” / “Eye for Eye”", "year": "1979 / 1987", "note": "landmark stories (“Eye for Eye” won the Hugo)"},
+      {"title": "Characters and Viewpoint", "year": "1988", "note": "on writing"},
+      {"title": "How to Write Science Fiction and Fantasy", "year": "1990", "note": "Hugo Award for Best Related Work"}
+    ]
+  }
+]
