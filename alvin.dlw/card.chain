@@ -4,6 +4,6 @@ slug  : card
 seal  : c27c213de9d5d9b2117db20384cb8892a968c65d2738ad2e75f208248d4d705e
 prev  : 241a75c1dd81744976d182dc3cd91eb84e96f0c0bf2c7d0f63ad3765463ed561
 link  : 72b7eb5e4fbf31c4054f581bdf29d7512937b1e4a300a270e4896dbf22da7820
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
